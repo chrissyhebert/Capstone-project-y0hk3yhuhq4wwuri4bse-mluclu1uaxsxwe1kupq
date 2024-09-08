@@ -1,0 +1,17 @@
+body {
+  background-color:green
+}
+.italic {
+  font-style:italic
+}
+.bold {
+  font-weight:bold
+}
+table, td {
+  border-style:solid
+}
+.blue {
+  color:rgb(0,0,200)
+}
+h1:hover{color:blue}
+{font-size:100vw}
